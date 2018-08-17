@@ -1,5 +1,5 @@
 # Melhores atletas
-Ronaldo
+Cristiano Ronaldo
 Rivaldo
 Pelé
 Messi
